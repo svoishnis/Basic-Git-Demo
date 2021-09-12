@@ -4,3 +4,9 @@
 #### Heading 4 (h4)
 ##### Heading 5 (h5)
 ###### Heading 6 (h6)
+
+No special syntax required for the body of the page
+
+-This is a list
+- *j or _ makes text _italicized_
+- while ** or __ makes text __bold__
