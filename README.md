@@ -10,3 +10,7 @@ No special syntax required for the body of the page
 -This is a list
 - *j or _ makes text _italicized_
 - while ** or __ makes text __bold__
+
+1. # start an ordered list
+2. and backticks write 'code'
+3. you can write [links](https://www.google.com/)
